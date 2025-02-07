@@ -8,10 +8,7 @@
 A Hardware Automation Project that brings the magic of automation and AI to your home. This project is designed to
 integrate with popular IoT devices, enabling seamless control over your smart home devices.
 
-[![Virtual-Diva in
-Action](https://user-images.githubusercontent.com/74337241/135341442-2c5f7ff3-eb11-49e4-b9a1-a0b9d6b21df8/0001/
-Virtual-Diva-in-Action.gif "Virtual-Diva in Action")](https://github.com/VanshSharma5/Virtual-Diva/blob/main/Recording%202025-01-03%20144156.mp4)
-
+[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://github.com/VanshSharma5/Virtual-Diva/blob/main/Recording%202025-01-03%20144156.mp4))]([https://youtu.be/vt5fpE0bzSY](https://github.com/VanshSharma5/Virtual-Diva/blob/main/Recording%202025-01-03%20144156.mp4))
 
 ## Table of Contents
 
