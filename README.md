@@ -42,14 +42,14 @@ personalized experience.
 
 ## Requirements
 
-* **Operating System**: Ubuntu 20.04 (or later)
+* **Operating System**: Ubuntu 20.04 (or later) 
 * **Hardware**: Raspberry Pi 4 (or later) or Intel Core i7 (or later)
 * **Software**: Python 3.x (or later), pip, and virtualenv
 * **Internet Connection**: Stable internet connection required for device communication
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/Virtual-Diva.git`
+1. Clone the repository: `git clone https://github.com/VanshSharma5/Virtual-Diva.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Configure device connections: Follow the instructions in the `config` directory
 4. Run the project: `python main.py`
@@ -70,7 +70,7 @@ personalized experience.
 
 Contributions are welcome! If you'd like to contribute to Virtual-Diva, please:
 
-1. Fork the repository: `git fork https://github.com/your-username/Virtual-Diva.git`
+1. Fork the repository: `git fork https://github.com/VanshSharma5/Virtual-Diva.git`
 2. Create a new branch: `git checkout -b feature/new-feature`
 3. Make changes and push: `git add .` and `git commit -m "Your commit message"`
 4. Submit a pull request
