@@ -8,7 +8,10 @@
 A Hardware Automation Project that brings the magic of automation and AI to your home. This project is designed to
 integrate with popular IoT devices, enabling seamless control over your smart home devices.
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://github.com/VanshSharma5/Virtual-Diva/blob/main/Recording%202025-01-03%20144156.mp4))]([https://youtu.be/vt5fpE0bzSY](https://github.com/VanshSharma5/Virtual-Diva/blob/main/Recording%202025-01-03%20144156.mp4))
+
+https://github.com/user-attachments/assets/26d547b9-fe0e-4bc0-9c64-e0a4d4f395ec
+
+
 
 ## Table of Contents
 
